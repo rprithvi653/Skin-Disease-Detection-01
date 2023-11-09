@@ -1,6 +1,7 @@
 # Skin-Disease-Detection
 Skin Disease Detection using Deep Learning, which uses the HAM10000 dataset for training machine learning for skin cancer prediction
 The dataset HAM10000 contains 10015 images of different skin diseases (skin cancer), with the description data in the form of a CSV file as well.
+The project uses CNN(Convolutional Neural Networks) model for prediction of the results.
 
 The dataset can be downloaded at the following link: 
 
